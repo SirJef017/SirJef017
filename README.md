@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SirJef017
-- 👀 I’m interested in CyberSecurity
+- 👀 I’m interested in WebDevelopment
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me Via email wambuasirjef@gmail.com
